@@ -16,6 +16,7 @@
     "node": ">= 0.9"
   },
   "dependencies": {
+    "jwt-simple": "^0.2.0",
     "passport-local": "1.0.x"
   },
   "devDependencies": {
