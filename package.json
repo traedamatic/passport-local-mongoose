@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "jwt-simple": "^0.2.0",
-    "node-cache": "^3.0.0",
     "passport-local": "1.0.x"
   },
   "devDependencies": {
